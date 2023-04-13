@@ -1,6 +1,6 @@
 Name;Birthdate;ID;
-Eduardo Teles;19/12/1983;12311362;
-Maria Joao;11/01/1990;11111111;
-André Silva;01/01/1980;22222222;
-Vânia Teles;19/08/1990,12311123;
-Alice Teles;04/03/2017;99912321;
+Eduardo Teles;19/12/1983;00000000;
+Maria Joao;11/01/1990;00000000;
+André Silva;01/01/1980;00000000;
+Vânia Teles;19/08/1990,00000000;
+Alice Teles;04/03/2017;00000000;
